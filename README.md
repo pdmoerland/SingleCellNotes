@@ -8,6 +8,8 @@
 ## Courses
 
 ## Tutorials
+* [Single-cell reading list](https://github.com/gtca/single-cell-reading-list): A curated selection of blog posts and papers on single-cell data analysis. 
+
 
 ## Trajectory inference
 
