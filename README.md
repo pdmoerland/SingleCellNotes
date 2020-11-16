@@ -5,7 +5,7 @@
 * [scRNA-tools](https://www.scrna-tools.org/): A catalogue of tools for analysing single-cell RNA sequencing data.
 * A curated [database](https://docs.google.com/spreadsheets/d/1En7-UV0k0laDiIfjFkdn7dggyR7jIk3WH8QgXaMOZF0/edit#gid=0) of of single-cell transcriptomics studies.
 * [Single-cell reading list](https://github.com/gtca/single-cell-reading-list): A curated selection of blog posts and papers on single-cell data analysis. 
-* [Single Cell Genomics Day](https://satijalab.org/scgd/): Each year the lag of Rahul Satija organizes a one-day workshop highlighting recent developments in the field.
+* [Single Cell Genomics Day](https://satijalab.org/scgd/): Each year the lab of Rahul Satija organizes a one-day workshop highlighting recent developments in the field.
 
 ## Courses
 * [Analysis of single cell RNA-seq data](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html): A long-running course from the Cambridge Bioinformatics training unit (Martin Hemberg and others). See also their GitHub [repository](https://github.com/hemberg-lab/scRNA.seq.course). This [course](https://broadinstitute.github.io/2020_scWorkshop/) at the Broad Institute is based on it and offers some interesting extensions (on CITE-Seq for example).
@@ -30,10 +30,11 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Gene regulatory network inference
 
 ### Reviews
-
+* [A comprehensive survey of regulatory network inference methods using single cell RNA sequencing data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa190/5904505): Nguyen et al. Briefings in Bioinformatics, bbaa190 (2020). https://doi.org/10.1093/bib/bbaa190
+* [Integration of single-cell multi-omics for gene regulatory network inference](https://www.sciencedirect.com/science/article/pii/S2001037020303226): Hu et al. Computational and Structural Biotechnology Journal. 2020;18:1925-1938. doi: 10.1016/j.csbj.2020.06.033.
 ### Benchmarks
 * [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data
-](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098173/): Pratapa et al. Nat Methods. 2020 Feb;17(2):147-154. doi: 10.1038/s41592-019-0690-6. 
+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098173/): Pratapa et al. Nat Methods. 2020;17(2):147-154. doi: 10.1038/s41592-019-0690-6. 
 * [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chenet al. BMC Bioinformatics 19, 232 (2018). https://doi.org/10.1186/s12859-018-2217-z
 
 ### Methods
