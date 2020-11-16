@@ -16,7 +16,8 @@
 teaches you how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore scRNA-seq data. The companion paper can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7358058/).
 * [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746): A highly readable tutorial by Malte Luecken
  and Fabian Theis. There is a companion GitHub [repository](https://github.com/theislab/single-cell-tutorial) with the scripts
-* [Seurat vignettes](https://satijalab.org/seurat/vignettes.html): Seurat remains the most comprehensive R toolkit for single genomics analysis accompanied by a large collection of vignettes. 
+* [Seurat vignettes](https://satijalab.org/seurat/vignettes.html): [Seurat](https://satijalab.org/seurat/) remains the most comprehensive R toolkit for single genomics analysis accompanied by a large collection of vignettes. 
+* [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html): [Scanpy](https://scanpy.readthedocs.io/en/stable/index.html) is a scalable Python toolkit for analyzing single-cell gene expression data and comes with a rich set of tutorals.
 [Kallisto|bustools](https://www.kallistobus.tools/tutorials):  Google Colab notebooks on working with kallisto in combination with bustools.
 
 ## Trajectory inference
@@ -27,3 +28,12 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Spatial transcriptomics
 
 ## Gene regulatory network inference
+
+### Reviews
+
+### Benchmarks
+* [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data
+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098173/): Pratapa et al. Nat Methods. 2020 Feb;17(2):147-154. doi: 10.1038/s41592-019-0690-6. 
+* [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chenet al. BMC Bioinformatics 19, 232 (2018). https://doi.org/10.1186/s12859-018-2217-z
+
+### Methods
