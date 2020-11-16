@@ -32,9 +32,13 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ### Reviews
 * [A comprehensive survey of regulatory network inference methods using single cell RNA sequencing data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa190/5904505): Nguyen et al. Briefings in Bioinformatics, bbaa190 (2020). https://doi.org/10.1093/bib/bbaa190
 * [Integration of single-cell multi-omics for gene regulatory network inference](https://www.sciencedirect.com/science/article/pii/S2001037020303226): Hu et al. Computational and Structural Biotechnology Journal. 2020;18:1925-1938. doi: 10.1016/j.csbj.2020.06.033.
+* [Network Inference from Single-Cell Transcriptomic Data](https://link.springer.com/protocol/10.1007%2F978-1-4939-8882-2_10): Todorov et al. (2019) Network Inference from Single-Cell Transcriptomic Data. In: Sanguinetti G., Huynh-Thu V. (eds) Gene Regulatory Networks. Methods in Molecular Biology, vol 1883. Humana Press, New York, NY. https://doi.org/10.1007/978-1-4939-8882-2_10
+* [Mapping gene regulatory networks from single-cell omics data](https://academic.oup.com/bfg/article/17/4/246/4803107): Fiers et al. Briefings in Functional Genomics, Volume 17, Issue 4, July 2018, Pages 246–254, https://doi.org/10.1093/bfgp/elx046
+* [Learning regulatory models for cell development from single cell transcriptomic data](https://www.sciencedirect.com/science/article/pii/S2452310017301257): Babtie et al. Current Opinion in Systems Biology 5 (2017): 72-81.
 ### Benchmarks
-* [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data
-](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098173/): Pratapa et al. Nat Methods. 2020;17(2):147-154. doi: 10.1038/s41592-019-0690-6. 
+* [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098173/): Pratapa et al. Nat Methods. 2020;17(2):147-154. doi: 10.1038/s41592-019-0690-6. 
 * [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chenet al. BMC Bioinformatics 19, 232 (2018). https://doi.org/10.1186/s12859-018-2217-z
 
 ### Methods
+* [scPADGRN](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007471&rev=2): Zheng et al. (2020) scPADGRN: A preconditioned ADMM approach for reconstructing dynamic gene regulatory network using single-cell RNA sequencing data. PLoS Comput Biol 16(7): e1007471. https://doi.org/10.1371/journal.pcbi.1007471. [Code](https://github.com/xzheng-ac/scPADGRN)
+
