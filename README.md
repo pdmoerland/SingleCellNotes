@@ -62,6 +62,9 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [From whole-mount to single-cell spatial assessment of gene expression in 3D](https://www.nature.com/articles/s42003-020-01341-1): Waylen et al. Commun Biol 3, 602 (2020).
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x): Armingol et al. Nat Rev Genet (2020).
 
+### Technologies
+* [Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution](https://science.sciencemag.org/content/363/6434/1463.full): Rodriques et al. Science. 2019;363(6434):1463-1467.
+
 ### Spatial reconstruction
 * [Perler: Model-based prediction of spatial gene expression via generative linear mapping](https://www.biorxiv.org/content/10.1101/2020.05.21.107847v3.full): Okochi et al. (2020). bioRxiv 2020.05.21.107847.
 * [novoSpaRc: Gene expression cartography](https://www.nature.com/articles/s41586-019-1773-3): Nitzan et al. Nature 576.7785 (2019): 132-137. [Code](https://github.com/rajewsky-lab/novosparc)
@@ -78,9 +81,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [SpaOTsc: Inferring spatial and signaling relationships between cells from single cell transcriptomic data](): Cang et al. Nature Communications 11.1 (2020): 1-13. [Code](https://github.com/zcang/SpaOTsc)
 * [CSOmap: Reconstruction of cell spatial organization from single-cell RNA sequencing data based on ligand-receptor mediated self-assembly](https://www.nature.com/articles/s41422-020-0353-2): Ren et al. Cell Res 30, 763–778 (2020).
 * [CellChat: Inference and analysis of cell-cell communication using CellChat](https://www.biorxiv.org/content/10.1101/2020.07.21.214387v1.full): Jin et al. (2020). bioRxiv 2020.07.21.214387. [Code](https://github.com/sqjin/CellChat), [Web](http://www.cellchat.org/)
-* 
-+++
-### Deconvolution
 
-### Technologies
-* [Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution](https://science.sciencemag.org/content/363/6434/1463.full): Rodriques et al. Science. 2019 Mar 29;363(6434):1463-1467.
+### Deconvolution
+* [SPOTlight: Seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes](https://www.biorxiv.org/content/10.1101/2020.06.03.131334v1):
+Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
