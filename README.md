@@ -18,7 +18,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746): A highly readable tutorial by Malte Luecken and Fabian Theis. There is a companion GitHub [repository](https://github.com/theislab/single-cell-tutorial) with the scripts.
 * [Seurat vignettes](https://satijalab.org/seurat/vignettes.html): [Seurat](https://satijalab.org/seurat/) remains the most comprehensive R toolkit for single genomics analysis accompanied by a large collection of vignettes. 
 * [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html): [Scanpy](https://scanpy.readthedocs.io/en/stable/index.html) is a scalable Python toolkit for analyzing single-cell gene expression data and comes with a rich set of tutorials.
-[Kallisto|bustools](https://www.kallistobus.tools/tutorials):  Google Colab notebooks on working with kallisto in combination with bustools.
+* [Kallisto|bustools](https://www.kallistobus.tools/tutorials):  Google Colab notebooks on working with kallisto in combination with bustools.
 
 ## Trajectory inference
 * [single-cell-pseudotime](https://github.com/agitter/single-cell-pseudotime): Overview of single-cell RNA-seq pseudotime estimation algorithms.
