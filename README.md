@@ -1,5 +1,10 @@
 # SingleCellNotes
 
+## Journal club
+Week 1: [SCENIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/): Aibar et al. SCENIC: single-cell regulatory network inference and clustering. Nat Methods. 2017;14(11):1083-1086. [R code](https://github.com/aertslab/SCENIC), [Python code](https://github.com/aertslab/pySCENIC). Follow-up reading:
+* [A scalable SCENIC workflow for single-cell gene regulatory network analysis](https://www.nature.com/articles/s41596-020-0336-2): Van de Sande et al. Nat Protoc 15, 2247–2276 (2020). [GitHub](https://github.com/aertslab/SCENICprotocol)
+Week 2: 
+
 ## General
 * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell): List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 * [scRNA-tools](https://www.scrna-tools.org/): A catalogue of tools for analysing single-cell RNA sequencing data.
