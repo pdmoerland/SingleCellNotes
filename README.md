@@ -1,14 +1,14 @@
 # SingleCellNotes
 
 ## Journal club
-**Week 1**: [SCENIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/): Aibar et al. SCENIC: single-cell regulatory network inference and clustering. Nat Methods. 2017;14(11):1083-1086. [R code](https://github.com/aertslab/SCENIC), [Python code](https://github.com/aertslab/pySCENIC). Follow-up reading:
+**Week 1: April 22** (Perry): [SCENIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/): Aibar et al. SCENIC: single-cell regulatory network inference and clustering. Nat Methods. 2017;14(11):1083-1086. [R code](https://github.com/aertslab/SCENIC), [Python code](https://github.com/aertslab/pySCENIC). Follow-up reading:
 * [A scalable SCENIC workflow for single-cell gene regulatory network analysis](https://www.nature.com/articles/s41596-020-0336-2): Van de Sande et al. Nat Protoc 15, 2247–2276 (2020). [GitHub](https://github.com/aertslab/SCENICprotocol)
 
 **Week 2**: (maybe we need two sesssions for this?)
 * [Efficient Parameter Estimation Enables the Prediction of Drug Response Using a Mechanistic Pan-Cancer Pathway Model](https://www.sciencedirect.com/science/article/pii/S2405471218304381): Fröhlich et al. Cell Syst. 2018 Dec 26;7(6):567-579.e6. 
 * [A mechanistic pan-cancer pathway model informed by multi-omics data interprets stochastic cell fate responses to drugs and mitogens](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005985): Bouhaddou et al. PLoS Comput Biol. 2018 Mar 26;14(3):e1005985. 
 
-**Week 3**:
+**Week 3** (Aldo?):
 * [GENIE3](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012776): Huynh-Thu et al. Inferring Regulatory Networks from Expression Data Using Tree-Based Methods(2010). PLOS ONE 5(9): e12776. [GitHub](https://github.com/vahuynh/GENIE3)
 * [dynGENIE3](https://www.nature.com/articles/s41598-018-21715-0): Huynh-Thu et al. dynGENIE3: dynamical GENIE3 for the inference of gene networks from time series expression data. Sci Rep 8, 3384 (2018). [GitHub](https://github.com/vahuynh/dynGENIE3)
 
