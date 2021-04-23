@@ -6,7 +6,7 @@
 
 **Week 2: May 6** (Huub): [A mechanistic pan-cancer pathway model informed by multi-omics data interprets stochastic cell fate responses to drugs and mitogens](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005985): Bouhaddou et al. PLoS Comput Biol. 2018 Mar 26;14(3):e1005985.  Follow-up reading:
 * [Efficient Parameter Estimation Enables the Prediction of Drug Response Using a Mechanistic Pan-Cancer Pathway Model](https://www.sciencedirect.com/science/article/pii/S2405471218304381): Fröhlich et al. Cell Syst. 2018 Dec 26;7(6):567-579.e6. 
-* 
+
 **Week 3: May 20** (Utkarsh):
 * [GENIE3](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012776): Huynh-Thu et al. Inferring Regulatory Networks from Expression Data Using Tree-Based Methods(2010). PLOS ONE 5(9): e12776. [GitHub](https://github.com/vahuynh/GENIE3)
 * [dynGENIE3](https://www.nature.com/articles/s41598-018-21715-0): Huynh-Thu et al. dynGENIE3: dynamical GENIE3 for the inference of gene networks from time series expression data. Sci Rep 8, 3384 (2018). [GitHub](https://github.com/vahuynh/dynGENIE3)
