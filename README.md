@@ -13,7 +13,7 @@
 
 **Week 4: June 3** (Aldo). [SCODE](https://academic.oup.com/bioinformatics/article/33/15/2314/3100331): Matsumoto et al. SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation, Bioinformatics, Volume 33, Issue 15, 2017, Pages 2314–2321. [Code](https://github.com/hmatsu1226/SCODE)
 
-**Week 5** (Wessel). [Ridge estimation of network models from time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700195): Miok et al. Biom J. 2019 Mar;61(2):391-405. [R code](https://cran.r-project.org/web/packages/ragt2ridges/index.html). Follow-up reading:
+**Week 5: June 17** (Wessel). [Ridge estimation of network models from time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700195): Miok et al. Biom J. 2019 Mar;61(2):391-405. [R code](https://cran.r-project.org/web/packages/ragt2ridges/index.html). Follow-up reading:
 * [Ridge estimation of inverse covariance matrices from high-dimensional data](https://www.sciencedirect.com/science/article/abs/pii/S0167947316301141): Van Wieringen et al., 2016. Computational Statistics & Data Analysis, 103, pp.284-303. [R code](https://cran.r-project.org/web/packages/rags2ridges/index.html)
 * [Ridge estimation of the VAR(1) model and its time series chain graph from multivariate time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201500269): Miok et al. Biom J. 2017 Jan;59(1):172-191. 
 
