@@ -83,6 +83,8 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Spatial transcriptomics
 
 ### Reviews
+* [Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics](https://www.nature.com/articles/s41576-021-00370-8): Longo et al. Nature Review Genetics (2021).
+* [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7): Argelaguet et al. Nature Biotechnology (2021).
 * [Uncovering an organ’s molecular architecture at single-cell resolution by spatially resolved transcriptomics](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30140-2): Liao et al. Trends Biotechnol. 2020:S0167-7799(20)30140-2.
 * [From whole-mount to single-cell spatial assessment of gene expression in 3D](https://www.nature.com/articles/s42003-020-01341-1): Waylen et al. Commun Biol 3, 602 (2020).
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x): Armingol et al. Nat Rev Genet (2020).
