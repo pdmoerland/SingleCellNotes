@@ -111,6 +111,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Seurat: Spatial reconstruction of single-cell gene expression data](https://www.nature.com/articles/nbt.3192): Satija et al. Nat Biotechnol 33, 495–502 (2015). [Code]()
 
 ### Deconvolution
+* [stereoscope: Single-cell and spatial transcriptomics enables probabilistic inference of cell type topography](https://www.nature.com/articles/s42003-020-01247-y): Andersson et al. Communications Biology 3:565 (2020) 
 * [SPOTlight: Seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes](https://www.biorxiv.org/content/10.1101/2020.06.03.131334v1):
 Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
 
@@ -120,4 +121,5 @@ Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcEl
 * [CSOmap: Reconstruction of cell spatial organization from single-cell RNA sequencing data based on ligand-receptor mediated self-assembly](https://www.nature.com/articles/s41422-020-0353-2): Ren et al. Cell Res 30, 763–778 (2020).
 * [CellChat: Inference and analysis of cell-cell communication using CellChat](https://www.biorxiv.org/content/10.1101/2020.07.21.214387v1.full): Jin et al. (2020). bioRxiv 2020.07.21.214387. [Code](https://github.com/sqjin/CellChat), [Web](http://www.cellchat.org/)
 
-
+## Perturbations
+* (Machine learning for perturbational single-cell omics)[https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00202-7]: Ji et al. Cell Systems 12(6) 522-537 (2021).
