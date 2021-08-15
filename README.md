@@ -17,7 +17,7 @@
 * [Ridge estimation of inverse covariance matrices from high-dimensional data](https://www.sciencedirect.com/science/article/abs/pii/S0167947316301141): Van Wieringen et al., 2016. Computational Statistics & Data Analysis, 103, pp.284-303. [R code](https://cran.r-project.org/web/packages/rags2ridges/index.html)
 * [Ridge estimation of the VAR(1) model and its time series chain graph from multivariate time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201500269): Miok et al. Biom J. 2017 Jan;59(1):172-191. 
 
-**Week 6**. [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
+**Week 6: September 16** (TBD). [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
 
 **Week 7**. [scPred](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1862-5): Alquicira-Hernandez et al. scPred: accurate supervised method for cell-type classification from single-cell RNA-seq data. Genome Biology, 20:264 (2019). [Code](https://github.com/powellgenomicslab/scPred/). Follow-up reading:
 * [A comparison of automatic cell identification methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z): Abdelaal et al. Genome Biology, 20:194 (2019). 
@@ -80,6 +80,16 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [SERGIO](https://www.sciencedirect.com/science/article/pii/S2405471220302878): Dibaeinia et al. SERGIO: A single-cell expression simulator guided by gene regulatory networks. Cell Syst. 2020;11(3):252-271.e11. [Code](https://github.com/PayamDiba/SERGIO)
 * [dyngen](https://www.biorxiv.org/content/10.1101/2020.02.06.936971v3): Cannoodt et al. (2020) dyngen: a multi-modal simulator for spearheading new single-cell omics analyses. bioRxiv 2020.02.06.936971. [Code](https://github.com/dynverse/dyngen)
 
+## Integration
+
+### Reviews
+
+### Methods
+* [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41592-019-0619-0): Korsunsky et al. Nature Methods 16 (2019): 1-8.
+[Code](https://github.com/immunogenomics/harmony)
+* [Seurat v3: Comprehensive integration of single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867419305598): Stuart et al. Cell 177.7 (2019): 1888-1902. [Code](https://satijalab.org/seurat/)
+* [LIGER: Single-cell multi-omic integration compares and contrasts features of brain cell identity](https://www.sciencedirect.com/science/article/pii/S0092867419305045): Welch et al. Cell 177.7 (2019): 1873-1887. [Code](https://macoskolab.github.io/liger/)
+
 ## Spatial transcriptomics
 
 ### Reviews
@@ -95,20 +105,16 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ### Spatial reconstruction
 * [Perler: Model-based prediction of spatial gene expression via generative linear mapping](https://www.biorxiv.org/content/10.1101/2020.05.21.107847v3.full): Okochi et al. (2020). bioRxiv 2020.05.21.107847.
 * [novoSpaRc: Gene expression cartography](https://www.nature.com/articles/s41586-019-1773-3): Nitzan et al. Nature 576.7785 (2019): 132-137. [Code](https://github.com/rajewsky-lab/novosparc)
-* [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41592-019-0619-0): Korsunsky et al. Nature Methods 16 (2019): 1-8.
-[Code](https://github.com/immunogenomics/harmony)
-* [Seurat v3: Comprehensive integration of single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867419305598): Stuart et al. Cell 177.7 (2019): 1888-1902. [Code](https://satijalab.org/seurat/)
-* [LIGER: Single-cell multi-omic integration compares and contrasts features of brain cell identity](https://www.sciencedirect.com/science/article/pii/S0092867419305045): Welch et al. Cell 177.7 (2019): 1873-1887. [Code](https://macoskolab.github.io/liger/)
 * [DistMap: The Drosophila embryo at single-cell transcriptome resolution](https://science.sciencemag.org/content/358/6360/194): Karaiskos et al.Science 358.6360 (2017): 194-199. [Code](https://github.com/rajewsky-lab/distmap)
 * [High-throughput spatial mapping of single-cell RNA-seq data to tissue of origin](https://www.nature.com/articles/nbt.3209): Achim et al. Nat Biotechnol 33, 503–509 (2015).
 * [Seurat: Spatial reconstruction of single-cell gene expression data](https://www.nature.com/articles/nbt.3192): Satija et al. Nat Biotechnol 33, 495–502 (2015). [Code]()
 
-### Cell-cell interaction
+### Deconvolution
+* [SPOTlight: Seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes](https://www.biorxiv.org/content/10.1101/2020.06.03.131334v1):
+Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
 
+### Cell-cell interaction
 * [SpaOTsc: Inferring spatial and signaling relationships between cells from single cell transcriptomic data](https://www.nature.com/articles/s41467-020-15968-5): Cang et al. Nature Communications 11.1 (2020): 1-13. [Code](https://github.com/zcang/SpaOTsc)
 * [CSOmap: Reconstruction of cell spatial organization from single-cell RNA sequencing data based on ligand-receptor mediated self-assembly](https://www.nature.com/articles/s41422-020-0353-2): Ren et al. Cell Res 30, 763–778 (2020).
 * [CellChat: Inference and analysis of cell-cell communication using CellChat](https://www.biorxiv.org/content/10.1101/2020.07.21.214387v1.full): Jin et al. (2020). bioRxiv 2020.07.21.214387. [Code](https://github.com/sqjin/CellChat), [Web](http://www.cellchat.org/)
 
-### Deconvolution
-* [SPOTlight: Seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes](https://www.biorxiv.org/content/10.1101/2020.06.03.131334v1):
-Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
