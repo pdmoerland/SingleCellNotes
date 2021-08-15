@@ -19,8 +19,11 @@
 
 **Week 6: September 16** (TBD). [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
 
+
 **Week 7**. [scPred](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1862-5): Alquicira-Hernandez et al. scPred: accurate supervised method for cell-type classification from single-cell RNA-seq data. Genome Biology, 20:264 (2019). [Code](https://github.com/powellgenomicslab/scPred/). Follow-up reading:
 * [A comparison of automatic cell identification methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z): Abdelaal et al. Genome Biology, 20:194 (2019). 
+
+**Week 8**. [Beyond Predictions in Neural ODEs: Identification and Interventions](https://arxiv.org/abs/2106.12430): Aliee et al. arXiv (2021) 2106.12430.
 
 ## General
 * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell): List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
@@ -42,12 +45,21 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Scanpy tutorials](https://scanpy.readthedocs.io/en/stable/tutorials.html): [Scanpy](https://scanpy.readthedocs.io/en/stable/index.html) is a scalable Python toolkit for analyzing single-cell gene expression data and comes with a rich set of tutorials.
 * [Kallisto|bustools](https://www.kallistobus.tools/tutorials):  Google Colab notebooks on working with kallisto in combination with bustools.
 
+## Atlases and compendia
+* [The Tabula Sapiens: a single cell transcriptomic atlas of multiple organs from individual human donors](https://www.biorxiv.org/content/10.1101/2021.07.19.452956v1.full): The Tabula Sapiens Consortium, Stephen R Quake (2021 bioRxiv 2021.07.19.452956. [Data](https://tabula-sapiens-portal.ds.czbiohub.org/)
+* [Single-nucleus cross-tissue molecular reference maps to decipher disease gene function](https://www.biorxiv.org/content/10.1101/2021.07.19.452954v1.full): Eraslan et al. (2021) bioRxiv 2021.07.19.452954.
+* [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell)
+* [PangloaDB](https://panglaodb.se/index.html)
+
 ## Trajectory inference
 * [single-cell-pseudotime](https://github.com/agitter/single-cell-pseudotime): Overview of single-cell RNA-seq pseudotime estimation algorithms.
 * [dynmethods](https://github.com/dynverse/dynmethods): A collection of 55 trajectory inference methods. To run any of these methods, interpret the results and visualise the trajectory, see the [dyno](https://github.com/dynverse/dyno) package.
 
 ### Real time versus pseudo time
 * [Lineage tracing on transcriptional landscapes links state to fate during differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7608074/): Weinreb et al. Science. 2020;367(6479):eaaw3381.
+
+## Visualization
+* [Comparison of visualization tools for single-cell RNAseq data ](https://academic.oup.com/nargab/article/2/3/lqaa052/5877814): Cakir et al. NAR Genomics and Bioinformatics, 2(3):lqaa052, 2020.
 
 ## Gene regulatory network inference
 
@@ -63,6 +75,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chenet al. BMC Bioinformatics 19, 232 (2018). 
 
 ### Methods
+* [DeepSEM](https://www.nature.com/articles/s43588-021-00099-8): Shu et al. (2021) Modeling gene regulatory networks using neural network architectures. Nature Computational Science, 1:491–501. [Code](https://github.com/HantaoShu/DeepSEM)
 * [scPADGRN](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007471&rev=2): Zheng et al. (2020) scPADGRN: A preconditioned ADMM approach for reconstructing dynamic gene regulatory network using single-cell RNA sequencing data. PLoS Comput Biol 16(7): e1007471. [Code](https://github.com/xzheng-ac/scPADGRN)
 * [GRISLI](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa576/5858974): Aubin-Frankowski et al. Gene regulation inference from single-cell RNA-seq data with linear differential equations and velocity inference, Bioinformatics, btaa576, 2020. [Code](https://github.com/PCAubin/GRISLI)
 * [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
@@ -80,12 +93,17 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [SERGIO](https://www.sciencedirect.com/science/article/pii/S2405471220302878): Dibaeinia et al. SERGIO: A single-cell expression simulator guided by gene regulatory networks. Cell Syst. 2020;11(3):252-271.e11. [Code](https://github.com/PayamDiba/SERGIO)
 * [dyngen](https://www.biorxiv.org/content/10.1101/2020.02.06.936971v3): Cannoodt et al. (2020) dyngen: a multi-modal simulator for spearheading new single-cell omics analyses. bioRxiv 2020.02.06.936971. [Code](https://github.com/dynverse/dyngen)
 
+### Applications
+* [Predicting gene regulatory networks from cell atlases](https://www.life-science-alliance.org/content/3/11/e202000658): Fønss Møller et al. Life Science Alliance (2020), 3:(11), e202000658.
+
 ## Integration
 
 ### Reviews
 * [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7): Argelaguet et al. Nat Biotechnol (2021).
 
 ### Methods
+* [Seurat v4: Integrated analysis of multimodal single-cell data](https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3): Hao et al. Cell, 184(13): 3573-3587 (2021).
+* [Efficient and precise single-cell reference atlas mapping with Symphony](https://www.biorxiv.org/content/10.1101/2020.11.18.389189v2.full): Kang et al. (2021) bioRxiv 2020.11.18.389189. [Code](https://github.com/immunogenomics/symphony)
 * [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41592-019-0619-0): Korsunsky et al. Nature Methods 16 (2019): 1-8.
 [Code](https://github.com/immunogenomics/harmony)
 * [Seurat v3: Comprehensive integration of single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867419305598): Stuart et al. Cell 177.7 (2019): 1888-1902. [Code](https://satijalab.org/seurat/)
@@ -94,6 +112,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Spatial transcriptomics
 
 ### Reviews
+* [Spatial omics and multiplexed imaging to explore cancer biology](https://www.nature.com/articles/s41592-021-01203-6): Lewis et al. Nat Methods (2021).
 * [Exploring tissue architecture using spatial transcriptomics](https://www.nature.com/articles/s41586-021-03634-9): Rao et al. Nature 596, 211–220 (2021).
 * [Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics](https://www.nature.com/articles/s41576-021-00370-8): Longo et al. Nature Review Genetics (2021).
 * [Uncovering an organ’s molecular architecture at single-cell resolution by spatially resolved transcriptomics](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30140-2): Liao et al. Trends Biotechnol. 2020:S0167-7799(20)30140-2.
@@ -111,6 +130,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Seurat: Spatial reconstruction of single-cell gene expression data](https://www.nature.com/articles/nbt.3192): Satija et al. Nat Biotechnol 33, 495–502 (2015). [Code]()
 
 ### Deconvolution
+* [DestVI: Multi-resolution deconvolution of spatial transcriptomics data reveals continuous patterns of inflammation](https://www.biorxiv.org/content/10.1101/2021.05.10.443517v1.full): Lopez et al. (2021) bioRxiv 2021.05.10.443517. [Code](https://scvi-tools.org/)
 * [stereoscope: Single-cell and spatial transcriptomics enables probabilistic inference of cell type topography](https://www.nature.com/articles/s42003-020-01247-y): Andersson et al. Communications Biology 3:565 (2020).
 * [SPOTlight: Seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes](https://www.biorxiv.org/content/10.1101/2020.06.03.131334v1):
 Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
