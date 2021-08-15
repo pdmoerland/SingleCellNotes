@@ -83,18 +83,19 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Integration
 
 ### Reviews
+* [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7): Argelaguet et al. Nat Biotechnol (2021).
 
 ### Methods
 * [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41592-019-0619-0): Korsunsky et al. Nature Methods 16 (2019): 1-8.
 [Code](https://github.com/immunogenomics/harmony)
 * [Seurat v3: Comprehensive integration of single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867419305598): Stuart et al. Cell 177.7 (2019): 1888-1902. [Code](https://satijalab.org/seurat/)
-* [LIGER: Single-cell multi-omic integration compares and contrasts features of brain cell identity](https://www.sciencedirect.com/science/article/pii/S0092867419305045): Welch et al. Cell 177.7 (2019): 1873-1887. [Code](https://macoskolab.github.io/liger/)
+* [LIGER: Single-cell multi-omic integration compares and contrasts features of brain cell identity](https://www.sciencedirect.com/science/article/pii/S0092867419305045): Welch et al. Cell 177.7 (2019): 1873-1887. [Code](https://macoskolab.github.io/liger/). See also [Iterative single-cell multi-omic integration using online learning](https://www.nature.com/articles/s41587-021-00867-x): Gao et al. Nat Botechnol 39, 1000–1007 (2021).
 
 ## Spatial transcriptomics
 
 ### Reviews
+* [Exploring tissue architecture using spatial transcriptomics](https://www.nature.com/articles/s41586-021-03634-9): Rao et al. Nature 596, 211–220 (2021).
 * [Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics](https://www.nature.com/articles/s41576-021-00370-8): Longo et al. Nature Review Genetics (2021).
-* [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7): Argelaguet et al. Nature Biotechnology (2021).
 * [Uncovering an organ’s molecular architecture at single-cell resolution by spatially resolved transcriptomics](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30140-2): Liao et al. Trends Biotechnol. 2020:S0167-7799(20)30140-2.
 * [From whole-mount to single-cell spatial assessment of gene expression in 3D](https://www.nature.com/articles/s42003-020-01341-1): Waylen et al. Commun Biol 3, 602 (2020).
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x): Armingol et al. Nat Rev Genet (2020).
@@ -105,7 +106,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ### Spatial reconstruction
 * [Perler: Model-based prediction of spatial gene expression via generative linear mapping](https://www.biorxiv.org/content/10.1101/2020.05.21.107847v3.full): Okochi et al. (2020). bioRxiv 2020.05.21.107847.
 * [novoSpaRc: Gene expression cartography](https://www.nature.com/articles/s41586-019-1773-3): Nitzan et al. Nature 576.7785 (2019): 132-137. [Code](https://github.com/rajewsky-lab/novosparc)
-* [DistMap: The Drosophila embryo at single-cell transcriptome resolution](https://science.sciencemag.org/content/358/6360/194): Karaiskos et al.Science 358.6360 (2017): 194-199. [Code](https://github.com/rajewsky-lab/distmap)
+* [DistMap: The Drosophila embryo at single-cell transcriptome resolution](https://science.sciencemag.org/content/358/6360/194): Karaiskos et al. Science 358.6360 (2017): 194-199. [Code](https://github.com/rajewsky-lab/distmap)
 * [High-throughput spatial mapping of single-cell RNA-seq data to tissue of origin](https://www.nature.com/articles/nbt.3209): Achim et al. Nat Biotechnol 33, 503–509 (2015).
 * [Seurat: Spatial reconstruction of single-cell gene expression data](https://www.nature.com/articles/nbt.3192): Satija et al. Nat Biotechnol 33, 495–502 (2015). [Code]()
 
@@ -114,7 +115,9 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
 
 ### Cell-cell interaction
+* [Integrated intra- and intercellular signaling knowledge for multicellular omics analysis](https://www.embopress.org/doi/full/10.15252/msb.20209923): Türei et al. Mol Syst Biol (2021)17:e9923. [Web](https://omnipathdb.org/) 
 * [SpaOTsc: Inferring spatial and signaling relationships between cells from single cell transcriptomic data](https://www.nature.com/articles/s41467-020-15968-5): Cang et al. Nature Communications 11.1 (2020): 1-13. [Code](https://github.com/zcang/SpaOTsc)
 * [CSOmap: Reconstruction of cell spatial organization from single-cell RNA sequencing data based on ligand-receptor mediated self-assembly](https://www.nature.com/articles/s41422-020-0353-2): Ren et al. Cell Res 30, 763–778 (2020).
 * [CellChat: Inference and analysis of cell-cell communication using CellChat](https://www.biorxiv.org/content/10.1101/2020.07.21.214387v1.full): Jin et al. (2020). bioRxiv 2020.07.21.214387. [Code](https://github.com/sqjin/CellChat), [Web](http://www.cellchat.org/)
+
 
