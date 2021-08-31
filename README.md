@@ -102,6 +102,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7): Argelaguet et al. Nat Biotechnol (2021).
 
 ### Methods
+* [scArches: Mapping single-cell data to reference atlases by transfer learning](https://www.nature.com/articles/s41587-021-01001-7): Lotfollahi et al. Nat Biotechnol (2021). [Code](https://github.com/theislab/scarches)
 * [Seurat v4: Integrated analysis of multimodal single-cell data](https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3): Hao et al. Cell, 184(13): 3573-3587 (2021).
 * [Efficient and precise single-cell reference atlas mapping with Symphony](https://www.biorxiv.org/content/10.1101/2020.11.18.389189v2.full): Kang et al. (2021) bioRxiv 2020.11.18.389189. [Code](https://github.com/immunogenomics/symphony)
 * [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41592-019-0619-0): Korsunsky et al. Nature Methods 16 (2019): 1-8.
