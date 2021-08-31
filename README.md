@@ -55,6 +55,8 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [single-cell-pseudotime](https://github.com/agitter/single-cell-pseudotime): Overview of single-cell RNA-seq pseudotime estimation algorithms.
 * [dynmethods](https://github.com/dynverse/dynmethods): A collection of 55 trajectory inference methods. To run any of these methods, interpret the results and visualise the trajectory, see the [dyno](https://github.com/dynverse/dyno) package.
 
+### RNA velocity
+* [RNA velocity—current challenges and future perspectives](https://www.embopress.org/doi/full/10.15252/msb.202110282): Bergen et al. Mol Syst Biol (2021)17:e10282.
 ### Real time versus pseudo time
 * [Lineage tracing on transcriptional landscapes links state to fate during differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7608074/): Weinreb et al. Science. 2020;367(6479):eaaw3381.
 
