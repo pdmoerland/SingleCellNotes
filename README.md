@@ -17,7 +17,7 @@
 * [Ridge estimation of inverse covariance matrices from high-dimensional data](https://www.sciencedirect.com/science/article/abs/pii/S0167947316301141): Van Wieringen et al., 2016. Computational Statistics & Data Analysis, 103, pp.284-303. [R code](https://cran.r-project.org/web/packages/rags2ridges/index.html)
 * [Ridge estimation of the VAR(1) model and its time series chain graph from multivariate time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201500269): Miok et al. Biom J. 2017 Jan;59(1):172-191. 
 
-**Week 6: September 30?** (Utkarsh). [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
+**Week 6: October 7** (Utkarsh). [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
 
 
 **Week 7**. [scPred](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1862-5): Alquicira-Hernandez et al. scPred: accurate supervised method for cell-type classification from single-cell RNA-seq data. Genome Biology, 20:264 (2019). [Code](https://github.com/powellgenomicslab/scPred/). Follow-up reading:
