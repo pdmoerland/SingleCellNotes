@@ -74,7 +74,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 
 ### Benchmark studies
 * [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098173/): Pratapa et al. Nat Methods. 2020;17(2):147-154. 
-* [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chenet al. BMC Bioinformatics 19, 232 (2018). 
+* [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chen et al. BMC Bioinformatics 19, 232 (2018). 
 
 ### Methods
 * [DeepSEM](https://www.nature.com/articles/s43588-021-00099-8): Shu et al. (2021) Modeling gene regulatory networks using neural network architectures. Nature Computational Science, 1:491–501. [Code](https://github.com/HantaoShu/DeepSEM)
