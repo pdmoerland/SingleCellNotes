@@ -115,6 +115,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Spatial transcriptomics
 
 ### Reviews
+* [Advances in spatial transcriptomic data analysis](https://genome.cshlp.org/content/31/10/1706.full): Dries et al. Genome Research (2021).
 * [Spatial omics and multiplexed imaging to explore cancer biology](https://www.nature.com/articles/s41592-021-01203-6): Lewis et al. Nat Methods (2021).
 * [Exploring tissue architecture using spatial transcriptomics](https://www.nature.com/articles/s41586-021-03634-9): Rao et al. Nature 596, 211–220 (2021).
 * [Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics](https://www.nature.com/articles/s41576-021-00370-8): Longo et al. Nature Review Genetics (2021).
