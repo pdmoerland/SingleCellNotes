@@ -65,6 +65,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Gene regulatory network inference
 
 ### Reviews
+* [Gene regulatory network inference in single-cell biology](https://www.sciencedirect.com/science/article/abs/pii/S2452310021000184): Akers et al. Current Opinion in Systems Biology, Volume 26, 2021, Pages 87-97.
 * [A comprehensive survey of regulatory network inference methods using single cell RNA sequencing data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa190/5904505): Nguyen et al. Briefings in Bioinformatics, bbaa190 (2020).
 * [Integration of single-cell multi-omics for gene regulatory network inference](https://www.sciencedirect.com/science/article/pii/S2001037020303226): Hu et al. Computational and Structural Biotechnology Journal. 2020;18:1925-1938.
 * [Network Inference from Single-Cell Transcriptomic Data](https://link.springer.com/protocol/10.1007%2F978-1-4939-8882-2_10): Todorov et al. (2019) Network Inference from Single-Cell Transcriptomic Data. In: Sanguinetti G., Huynh-Thu V. (eds) Gene Regulatory Networks. Methods in Molecular Biology, vol 1883. Humana Press, New York, NY.
@@ -76,9 +77,11 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [Evaluating methods of inferring gene regulatory networks highlights their lack of performance for single cell gene expression data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2217-z): Chen et al. BMC Bioinformatics 19, 232 (2018). 
 
 ### Methods
-* [scGeneRAI](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1212/6984592): Keyl et al. (2023) Single-cell gene regulatory network prediction by explainable AI. Nucleic Acids Research, gkac1212 [Code](https://github.com/PhGK/scGeneRAI).
+* [locaTE](https://www.biorxiv.org/content/10.1101/2023.01.08.523176v1.full): Zhang et al. (2023) Dynamical information enables inference of gene regulation at single-cell scale. bioRxiv 2023.01.08.523176. [Code](https://github.com/zsteve/locaTE.jl)
+* [scGeneRAI](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1212/6984592): Keyl et al. (2023) Single-cell gene regulatory network prediction by explainable AI. Nucleic Acids Research, gkac1212 [Code](https://github.com/PhGK/scGeneRAI)
 * [dynDeepDRIM](https://academic.oup.com/bib/article/23/6/bbac424/6720420): Xu et al. (2022) dynDeepDRIM: a dynamic deep learning model to infer direct regulatory interactions using time-course single-cell gene expression data/ Briefings in Bioinformatics, Volume 23, Issue 6, bbac424.
 * [SINGE](https://www.sciencedirect.com/science/article/pii/S2211124722000493): Deshpande et al. (2022) Network inference with Granger causality ensembles on single-cell transcriptomic data. Cell Reports, Volume 38, Issue 6. [Code](https://github.com/gitter-lab/SINGE)
+* [locCSN](https://www.pnas.org/doi/full/10.1073/pnas.2113178118): Wang et al. (2021) Constructing local cell-specific networks from single-cell data. PNAS, 118 (51) e2113178118. [Code](https://github.com/xuranw/locCSN)
 * [DeepSEM](https://www.nature.com/articles/s43588-021-00099-8): Shu et al. (2021) Modeling gene regulatory networks using neural network architectures. Nature Computational Science, 1:491–501. [Code](https://github.com/HantaoShu/DeepSEM)
 * [scPADGRN](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007471&rev=2): Zheng et al. (2020) scPADGRN: A preconditioned ADMM approach for reconstructing dynamic gene regulatory network using single-cell RNA sequencing data. PLoS Comput Biol 16(7): e1007471. [Code](https://github.com/xzheng-ac/scPADGRN)
 * [GRISLI](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa576/5858974): Aubin-Frankowski et al. Gene regulation inference from single-cell RNA-seq data with linear differential equations and velocity inference, Bioinformatics, btaa576, 2020. [Code](https://github.com/PCAubin/GRISLI)
@@ -95,7 +98,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ### Simulators
 * [dyngen](https://www.nature.com/articles/s41467-021-24152-2): Cannoodt et al. (2021) Spearheading future omics analyses using dyngen, a multi-modal simulator of single cells. Nat Commun 12, 3942. [Code](https://github.com/dynverse/dyngen)
 * [SERGIO](https://www.sciencedirect.com/science/article/pii/S2405471220302878): Dibaeinia et al. SERGIO: A single-cell expression simulator guided by gene regulatory networks. Cell Syst. 2020;11(3):252-271.e11. [Code](https://github.com/PayamDiba/SERGIO)
-* [BEELINE](https://github.com/Murali-group/Beeline): Evaluation framework built on top of dynverse and used in Pratapa et al. (see above)
+* [BEELINE](https://github.com/Murali-group/Beeline): Evaluation framework built on top of dynverse and BoolODE; used in Pratapa et al. (see above)
 
 ### Applications
 * [Predicting gene regulatory networks from cell atlases](https://www.life-science-alliance.org/content/3/11/e202000658): Fønss Møller et al. Life Science Alliance (2020), 3:(11), e202000658.
