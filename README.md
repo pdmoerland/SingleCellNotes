@@ -1,24 +1,23 @@
 # SingleCellNotes
 
 ## Journal club
-**Week 1: April 22** (Perry). [SCENIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/): Aibar et al. SCENIC: single-cell regulatory network inference and clustering. Nat Methods. 2017;14(11):1083-1086. [R code](https://github.com/aertslab/SCENIC), [Python code](https://github.com/aertslab/pySCENIC). Follow-up reading:
+**Week 1: April 22, 2021** (Perry). [SCENIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/): Aibar et al. SCENIC: single-cell regulatory network inference and clustering. Nat Methods. 2017;14(11):1083-1086. [R code](https://github.com/aertslab/SCENIC), [Python code](https://github.com/aertslab/pySCENIC). Follow-up reading:
 * [A scalable SCENIC workflow for single-cell gene regulatory network analysis](https://www.nature.com/articles/s41596-020-0336-2): Van de Sande et al. Nat Protoc 15, 2247–2276 (2020). [GitHub](https://github.com/aertslab/SCENICprotocol)
 
-**Week 2: May 6** (Huub). [A mechanistic pan-cancer pathway model informed by multi-omics data interprets stochastic cell fate responses to drugs and mitogens](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005985): Bouhaddou et al. PLoS Comput Biol. 2018 Mar 26;14(3):e1005985.  Follow-up reading:
+**Week 2: May 6, 2021** (Huub). [A mechanistic pan-cancer pathway model informed by multi-omics data interprets stochastic cell fate responses to drugs and mitogens](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005985): Bouhaddou et al. PLoS Comput Biol. 2018 Mar 26;14(3):e1005985.  Follow-up reading:
 * [Efficient Parameter Estimation Enables the Prediction of Drug Response Using a Mechanistic Pan-Cancer Pathway Model](https://www.sciencedirect.com/science/article/pii/S2405471218304381): Fröhlich et al. Cell Syst. 2018 Dec 26;7(6):567-579.e6. 
 
-**Week 3: May 20** (Utkarsh):
+**Week 3: May 20, 2021** (Utkarsh):
 * [GENIE3](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012776): Huynh-Thu et al. Inferring Regulatory Networks from Expression Data Using Tree-Based Methods(2010). PLOS ONE 5(9): e12776. [GitHub](https://github.com/vahuynh/GENIE3)
 * [dynGENIE3](https://www.nature.com/articles/s41598-018-21715-0): Huynh-Thu et al. dynGENIE3: dynamical GENIE3 for the inference of gene networks from time series expression data. Sci Rep 8, 3384 (2018). [GitHub](https://github.com/vahuynh/dynGENIE3)
 
-**Week 4: June 3** (Aldo). [SCODE](https://academic.oup.com/bioinformatics/article/33/15/2314/3100331): Matsumoto et al. SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation, Bioinformatics, Volume 33, Issue 15, 2017, Pages 2314–2321. [Code](https://github.com/hmatsu1226/SCODE)
+**Week 4: June 3, 2021** (Aldo). [SCODE](https://academic.oup.com/bioinformatics/article/33/15/2314/3100331): Matsumoto et al. SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation, Bioinformatics, Volume 33, Issue 15, 2017, Pages 2314–2321. [Code](https://github.com/hmatsu1226/SCODE)
 
-**Week 5: June 17** (Wessel). [Ridge estimation of network models from time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700195): Miok et al. Biom J. 2019 Mar;61(2):391-405. [R code](https://cran.r-project.org/web/packages/ragt2ridges/index.html). Follow-up reading:
+**Week 5: June 17, 2021** (Wessel). [Ridge estimation of network models from time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700195): Miok et al. Biom J. 2019 Mar;61(2):391-405. [R code](https://cran.r-project.org/web/packages/ragt2ridges/index.html). Follow-up reading:
 * [Ridge estimation of inverse covariance matrices from high-dimensional data](https://www.sciencedirect.com/science/article/abs/pii/S0167947316301141): Van Wieringen et al., 2016. Computational Statistics & Data Analysis, 103, pp.284-303. [R code](https://cran.r-project.org/web/packages/rags2ridges/index.html)
 * [Ridge estimation of the VAR(1) model and its time series chain graph from multivariate time‐course omics data](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201500269): Miok et al. Biom J. 2017 Jan;59(1):172-191. 
 
-**Week 6: October 7** (Utkarsh). [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
-
+**Week 6: October 7, 2021** (Utkarsh). [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
 
 **Week 7**. [scPred](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1862-5): Alquicira-Hernandez et al. scPred: accurate supervised method for cell-type classification from single-cell RNA-seq data. Genome Biology, 20:264 (2019). [Code](https://github.com/powellgenomicslab/scPred/). Follow-up reading:
 * [A comparison of automatic cell identification methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z): Abdelaal et al. Genome Biology, 20:194 (2019). 
@@ -81,7 +80,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 * [scPADGRN](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007471&rev=2): Zheng et al. (2020) scPADGRN: A preconditioned ADMM approach for reconstructing dynamic gene regulatory network using single-cell RNA sequencing data. PLoS Comput Biol 16(7): e1007471. [Code](https://github.com/xzheng-ac/scPADGRN)
 * [GRISLI](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa576/5858974): Aubin-Frankowski et al. Gene regulation inference from single-cell RNA-seq data with linear differential equations and velocity inference, Bioinformatics, btaa576, 2020. [Code](https://github.com/PCAubin/GRISLI)
 * [Scribe](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30036-3): Qiu et al. Inferring causal gene regulatory networks from coupled single-cell expression dynamics using Scribe. Cell Syst. 2020;10(3):265-274.e11. [Code](https://github.com/cole-trapnell-lab/Scribe)
-* [SINGE](https://www.biorxiv.org/content/10.1101/534834v1): Deshpande et al. (2019) Network inference with Granger causality ensembles on single-cell transcriptomic data. bioRxiv 534834. [Code](https://github.com/gitter-lab/SINGE)
+* [SINGE](https://www.sciencedirect.com/science/article/pii/S2211124722000493): Deshpande et al. (2022) Network inference with Granger causality ensembles on single-cell transcriptomic data. Cell Reports, Volume 38, Issue 6. [Code](https://github.com/gitter-lab/SINGE)
 * [WASABI](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2798-1): Bonnaffoux et al. WASABI: a dynamic iterative framework for gene regulatory network inference. BMC Bioinformatics 20, 220 (2019).
 * [M&NEM](https://academic.oup.com/bioinformatics/article/34/17/i964/5093248): Pirkl et al. Single cell network analysis with a mixture of Nested Effects Models, Bioinformatics, Volume 34, Issue 17, 2018, Pages i964–i971. [Code](https://github.com/cbg-ethz/mnem/)
 * [AR1MA1 - VBEM](https://academic.oup.com/bioinformatics/article/34/6/964/4222631): Sanchez-Castillo et al. A Bayesian framework for the inference of gene regulatory networks from time and pseudo-time series data, Bioinformatics, Volume 34, Issue 6, 2018, Pages 964–970. [Code](https://github.com/mscastillo/GRNVBEM)
