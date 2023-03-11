@@ -145,6 +145,8 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcElosua/SPOTlight)
 
 ### Cell-cell interaction
+* [Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data
+](https://www.nature.com/articles/s41467-022-30755-0): Dimitrov et al. (2022) Nat Commun 13, 3224. See [LIANA]( https://github.com/saezlab/liana) for their benchmark framework (including lots of resources and reimplementations)
 * [Integrated intra- and intercellular signaling knowledge for multicellular omics analysis](https://www.embopress.org/doi/full/10.15252/msb.20209923): Türei et al. Mol Syst Biol (2021)17:e9923. [Web](https://omnipathdb.org/) 
 * [SpaOTsc: Inferring spatial and signaling relationships between cells from single cell transcriptomic data](https://www.nature.com/articles/s41467-020-15968-5): Cang et al. Nature Communications 11.1 (2020): 1-13. [Code](https://github.com/zcang/SpaOTsc)
 * [CSOmap: Reconstruction of cell spatial organization from single-cell RNA sequencing data based on ligand-receptor mediated self-assembly](https://www.nature.com/articles/s41422-020-0353-2): Ren et al. Cell Res 30, 763–778 (2020).
