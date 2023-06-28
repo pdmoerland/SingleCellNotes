@@ -65,6 +65,7 @@ teaches you how to make use of cutting-edge Bioconductor tools to process, analy
 ## Gene regulatory network inference
 
 ### Reviews
+* [https://www.nature.com/articles/s41576-023-00618-5](https://www.nature.com/articles/s41576-023-00618-5): Badia-i-Mompel et al. Nature Reviews Genetics (2023). https://doi.org/10.1038/s41576-023-00618-5
 * [Gene regulatory network inference in single-cell biology](https://www.sciencedirect.com/science/article/abs/pii/S2452310021000184): Akers et al. Current Opinion in Systems Biology, Volume 26, 2021, Pages 87-97.
 * [A comprehensive survey of regulatory network inference methods using single cell RNA sequencing data](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa190/5904505): Nguyen et al. Briefings in Bioinformatics, bbaa190 (2020).
 * [Integration of single-cell multi-omics for gene regulatory network inference](https://www.sciencedirect.com/science/article/pii/S2001037020303226): Hu et al. Computational and Structural Biotechnology Journal. 2020;18:1925-1938.
