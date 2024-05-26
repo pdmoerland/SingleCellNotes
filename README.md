@@ -1,5 +1,38 @@
 # SingleCellNotes
 
+- [SingleCellNotes](#singlecellnotes)
+  * [Journal club](#journal-club)
+  * [General](#general)
+  * [Courses](#courses)
+  * [Tutorials](#tutorials)
+  * [Atlases and compendia](#atlases-and-compendia)
+  * [Trajectory inference](#trajectory-inference)
+    + [RNA velocity](#rna-velocity)
+    + [Real time versus pseudo time](#real-time-versus-pseudo-time)
+  * [Visualization](#visualization)
+  * [Gene regulatory network inference](#gene-regulatory-network-inference)
+    + [Reviews](#reviews)
+    + [Benchmark studies](#benchmark-studies)
+    + [Methods](#methods)
+    + [Simulators](#simulators)
+    + [Applications](#applications)
+  * [Integration](#integration)
+    + [Reviews](#reviews-1)
+    + [Methods](#methods-1)
+  * [Spatial transcriptomics](#spatial-transcriptomics)
+    + [Reviews](#reviews-2)
+    + [Technologies](#technologies)
+    + [Spatial reconstruction](#spatial-reconstruction)
+    + [Deconvolution](#deconvolution)
+    + [Cell-cell interaction](#cell-cell-interaction)
+  * [Perturbations](#perturbations)
+  * [10x and BioLegend](#10x-and-biolegend)
+    + [Cell hashing](#cell-hashing)
+      - [Examples](#examples)
+    + [Multiome](#multiome)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Journal club
 **Week 1: April 22, 2021** (Perry). [SCENIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937676/): Aibar et al. SCENIC: single-cell regulatory network inference and clustering. Nat Methods. 2017;14(11):1083-1086. [R code](https://github.com/aertslab/SCENIC), [Python code](https://github.com/aertslab/pySCENIC). Follow-up reading:
 * [A scalable SCENIC workflow for single-cell gene regulatory network analysis](https://www.nature.com/articles/s41596-020-0336-2): Van de Sande et al. Nat Protoc 15, 2247–2276 (2020). [GitHub](https://github.com/aertslab/SCENICprotocol)
