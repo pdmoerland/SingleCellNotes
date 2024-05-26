@@ -158,7 +158,6 @@ Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcEl
 
 ## 10x and BioLegend
 * [Chromium Next GEM Single Cell 3’ Reagent Kits v3.1 (Dual Index)](https://cdn.10xgenomics.com/image/upload/v1666737555/support-documents/CG000317_ChromiumNextGEMSingleCell3-v3.1_CellSurfaceProtein_RevD.pdf)
-* 
   
 ### Cell hashing
 * [Satija Lab: CITE-seq & Cell Hashing protocol](https://ccp.bwh.harvard.edu/wp-content/uploads/2021/10/Cite-seq-and-Cell-hashing-protocol-Satija-Lab.pdf)
@@ -167,10 +166,10 @@ Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcEl
 * [Cell Multiplexing Oligo Labeling for Single Cell RNA Sequencing Protocols with Feature Barcode technology](https://cdn.10xgenomics.com/image/upload/v1660261285/support-documents/CG000391_DemonstratedProtocol_CellLabelingwithCellMultiplexingOligo_RevB.pdf)
 * [Can I perform shallow sequencing on 3’ Cell Multiplexing libraries to assess the quality of my CellPlex data?](https://kb.10xgenomics.com/hc/en-us/articles/4412119096973-Can-I-perform-shallow-sequencing-on-3-Cell-Multiplexing-libraries-to-assess-the-quality-of-my-CellPlex-data)
 
-  #### Examples
-  * [High-dimensional single-cell analysis identifies cellular signatures associated with response to vedolizumab therapy in ulcerative colitis](https://assets-eu.researchsquare.com/files/rs-3348629/v1/f8fdb27c-06fa-46f0-aa1c-9accdd67ab5d.pdf?c=1700163838): A total of 400,000 cells from each sample (biopsy and PBMC) were ... labeled with barcoded antibodies (also known as cell hashing) using TotalSeq oligo-conjugated hashtag antibodies (Biolegend) ... The cDNA libraries were sequenced at 70,000 reads/cell and HTO libraries at 5,000 reads/cell.
-  * [Dictionary of immune responses to cytokines at single-cell resolution](https://www.nature.com/articles/s41586-023-06816-9): Cell hashing was used to combine multiple samples ... with TotalSeq antibodies (BioLegend anti-mouse hashtags ...) ... The pooled libraries were paired-end sequenced on a NovaSeq S4 platform targeting an average sequencing depth of 20,000 reads per cell for gene expression libraries, and on a NovaSeq S4 or SP platform targeting 5,000 reads per cell for hashtag libraries.
-  * [An atlas of cells in the human tonsil](https://www.sciencedirect.com/science/article/pii/S1074761324000311): Each sample was split into seven aliquots with equal numbers of cells ... To each aliquot, a specific TotalSeq-A antibody-oligo conjugate ... was added ... Finally, sequencing of HTO and GEX libraries was carried out on a NovaSeq 6000 sequencer (Illumina) using the following sequencing conditions: 28 bp (Read 1) + 8 bp (i7 index) + 0 bp (i5 index) + 89 bp (Read 2), to obtain approximately 2,000 and >20,000 paired-end reads per HTO and cell, respectively.
+#### Examples
+* [High-dimensional single-cell analysis identifies cellular signatures associated with response to vedolizumab therapy in ulcerative colitis](https://assets-eu.researchsquare.com/files/rs-3348629/v1/f8fdb27c-06fa-46f0-aa1c-9accdd67ab5d.pdf?c=1700163838): A total of 400,000 cells from each sample (biopsy and PBMC) were ... labeled with barcoded antibodies (also known as cell hashing) using TotalSeq oligo-conjugated hashtag antibodies (Biolegend) ... The cDNA libraries were sequenced at 70,000 reads/cell and HTO libraries at 5,000 reads/cell.
+* [Dictionary of immune responses to cytokines at single-cell resolution](https://www.nature.com/articles/s41586-023-06816-9): Cell hashing was used to combine multiple samples ... with TotalSeq antibodies (BioLegend anti-mouse hashtags ...) ... The pooled libraries were paired-end sequenced on a NovaSeq S4 platform targeting an average sequencing depth of 20,000 reads per cell for gene expression libraries, and on a NovaSeq S4 or SP platform targeting 5,000 reads per cell for hashtag libraries.
+* [An atlas of cells in the human tonsil](https://www.sciencedirect.com/science/article/pii/S1074761324000311): Each sample was split into seven aliquots with equal numbers of cells ... To each aliquot, a specific TotalSeq-A antibody-oligo conjugate ... was added ... Finally, sequencing of HTO and GEX libraries was carried out on a NovaSeq 6000 sequencer (Illumina) using the following sequencing conditions: 28 bp (Read 1) + 8 bp (i7 index) + 0 bp (i5 index) + 89 bp (Read 2), to obtain approximately 2,000 and >20,000 paired-end reads per HTO and cell, respectively.
   
 ### Multiome
 * [Cell Ranger ARC](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/overview/welcome)
