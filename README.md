@@ -28,6 +28,7 @@
 - [10x and BioLegend](#10x-and-biolegend)
   * [Cell hashing](#cell-hashing)
     + [Examples](#examples)
+    + [Literature](#literature)
   * [Multiome](#multiome)
 
 ## Journal club
