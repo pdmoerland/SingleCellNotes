@@ -202,11 +202,11 @@ Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcEl
 * [Dictionary of immune responses to cytokines at single-cell resolution](https://www.nature.com/articles/s41586-023-06816-9): Cell hashing was used to combine multiple samples ... with TotalSeq antibodies (BioLegend anti-mouse hashtags ...) ... The pooled libraries were paired-end sequenced on a NovaSeq S4 platform targeting an average sequencing depth of 20,000 reads per cell for gene expression libraries, and on a NovaSeq S4 or SP platform targeting 5,000 reads per cell for hashtag libraries.
 * [An atlas of cells in the human tonsil](https://www.sciencedirect.com/science/article/pii/S1074761324000311): Each sample was split into seven aliquots with equal numbers of cells ... To each aliquot, a specific TotalSeq-A antibody-oligo conjugate ... was added ... Finally, sequencing of HTO and GEX libraries was carried out on a NovaSeq 6000 sequencer (Illumina) using the following sequencing conditions: 28 bp (Read 1) + 8 bp (i7 index) + 0 bp (i5 index) + 89 bp (Read 2), to obtain approximately 2,000 and >20,000 paired-end reads per HTO and cell, respectively.
 
-  #### Literature
-  * [Comparative analysis of antibody- and lipid-based multiplexing methods for single-cell RNA-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02628-8)
-  * [A risk-reward examination of sample multiplexing reagents for single cell RNA-Seq](https://www.sciencedirect.com/science/article/pii/S0888754324000144): Only paper I could find that actually benchmarks demultiplexing using Cell Ranger multi
-  * [hadge: a comprehensive pipeline for donor deconvolution in single-cell studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03249-z)
-  * [Demuxafy: improvement in droplet assignment by integrating multiple single-cell demultiplexing and doublet detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03224-8)
+#### Literature
+* [Comparative analysis of antibody- and lipid-based multiplexing methods for single-cell RNA-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02628-8)
+* [A risk-reward examination of sample multiplexing reagents for single cell RNA-Seq](https://www.sciencedirect.com/science/article/pii/S0888754324000144): Only paper I could find that actually benchmarks demultiplexing using Cell Ranger multi
+* [hadge: a comprehensive pipeline for donor deconvolution in single-cell studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03249-z)
+* [Demuxafy: improvement in droplet assignment by integrating multiple single-cell demultiplexing and doublet detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03224-8)
   
 ### Multiome
 * [Cell Ranger ARC](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/overview/welcome)
