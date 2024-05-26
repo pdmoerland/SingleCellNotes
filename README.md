@@ -209,4 +209,4 @@ Elosua et al. (2020) bioRxiv 2020.06.03.131334. [Code](https://github.com/MarcEl
 * [Demuxafy: improvement in droplet assignment by integrating multiple single-cell demultiplexing and doublet detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03224-8)
   
 ### Multiome
-* [Cell Ranger ARC](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/overview/welcome)
+* [Cell Ranger ARC](https://www.10xgenomics.com/support/software/cell-ranger-arc/latest)
